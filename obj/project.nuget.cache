@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "enQQZn5U/6CgKo27OCKn9gyHDB/FL7X2aZY8D06PKuUA1hbVMW/yhLAuOGLP4thK/wozDHF7EXHvkbKDx2aKwA==",
+  "success": true,
+  "projectFilePath": "/workspaces/qiita_demo_01/ConversionByRegion.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/sixlabors.fonts/2.0.0/sixlabors.fonts.2.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/sixlabors.imagesharp/3.0.2/sixlabors.imagesharp.3.0.2.nupkg.sha512",
+    "/home/codespace/.nuget/packages/sixlabors.imagesharp.drawing/2.0.0/sixlabors.imagesharp.drawing.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
